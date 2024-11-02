@@ -25,7 +25,7 @@ This project implements a multi-modal question-answering system that supports PD
 
   1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multi-modal-semantic-search.git
+   git clone https://github.com/MubashirAI12/Multi-Modal-Semantic-Search-LangChain-.git
    cd multi-modal-semantic-search
    ```
   2. Set up environment variables: Create a .env file in the root directory and add the following variables:
